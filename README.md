@@ -4,8 +4,8 @@
 
 <p>javac -version or javac --version</p>
   
-</h3>If the javac command does not work, make sure it is set up in your environment PATH variable</h3>
-
+  
+<h3>If the javac command does not work, make sure it is set up in your environment PATH variable</h3>
 
 Run the program with this command on the commandline :
 
