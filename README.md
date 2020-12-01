@@ -7,6 +7,6 @@
   
 <h3>If the javac command does not work, make sure it is set up in your environment PATH variable</h3>
 
-Run the program with this command on the commandline :
+Run the file with this command on the commandline :
 
 java –DsocksProxyHost=localhost –DsocksProxyPort=1080 SocketClient
